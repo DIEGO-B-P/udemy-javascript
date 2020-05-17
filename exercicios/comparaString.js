@@ -26,3 +26,4 @@ function comparaTamanho(str1, str2) {
 }
 
 console.log(comparaPercentual(string1, string2).toFixed(2), `%`);
+//teste para commit
